@@ -1,0 +1,10 @@
+C:\Users\Ivica\source\repos\projekt_web_tabovi\projekt_web_tabovi\bin\Debug\projekt_web_tabovi.exe.config
+C:\Users\Ivica\source\repos\projekt_web_tabovi\projekt_web_tabovi\bin\Debug\projekt_web_tabovi.exe
+C:\Users\Ivica\source\repos\projekt_web_tabovi\projekt_web_tabovi\bin\Debug\projekt_web_tabovi.pdb
+C:\Users\Ivica\source\repos\projekt_web_tabovi\projekt_web_tabovi\obj\Debug\projekt_web_tabovi.csprojAssemblyReference.cache
+C:\Users\Ivica\source\repos\projekt_web_tabovi\projekt_web_tabovi\obj\Debug\projekt_web_tabovi.Form1.resources
+C:\Users\Ivica\source\repos\projekt_web_tabovi\projekt_web_tabovi\obj\Debug\projekt_web_tabovi.Properties.Resources.resources
+C:\Users\Ivica\source\repos\projekt_web_tabovi\projekt_web_tabovi\obj\Debug\projekt_web_tabovi.csproj.GenerateResource.cache
+C:\Users\Ivica\source\repos\projekt_web_tabovi\projekt_web_tabovi\obj\Debug\projekt_web_tabovi.csproj.CoreCompileInputs.cache
+C:\Users\Ivica\source\repos\projekt_web_tabovi\projekt_web_tabovi\obj\Debug\projekt_web_tabovi.exe
+C:\Users\Ivica\source\repos\projekt_web_tabovi\projekt_web_tabovi\obj\Debug\projekt_web_tabovi.pdb
